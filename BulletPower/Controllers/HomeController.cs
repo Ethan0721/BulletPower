@@ -20,5 +20,10 @@ namespace BulletPower.Controllers
 
             return View();
         }
+        public ActionResult Delete()
+        {
+
+            return View();
+        }
     }
 }
