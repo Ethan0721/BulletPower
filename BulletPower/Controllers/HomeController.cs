@@ -25,10 +25,6 @@ namespace BulletPower.Controllers
 
             return View();
         }
-        public ActionResult Update()
-        {
 
-            return View();
-        }
     }
 }
