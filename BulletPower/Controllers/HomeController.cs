@@ -14,5 +14,11 @@ namespace BulletPower.Controllers
 
             return View();
         }
+        public ActionResult Get()
+        {
+            ViewBag.Title = "Home Page";
+
+            return View();
+        }
     }
 }
