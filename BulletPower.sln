@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulletPower", "BulletPower\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulletPower.Models", "BulletPower.Models\BulletPower.Models.csproj", "{9900F7BE-79AF-4192-B730-A6D5B2478671}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulletPower.Data", "BulletPower.Data\BulletPower.Data.csproj", "{D4FACE1C-7826-4137-BCD8-832370E6CB88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9900F7BE-79AF-4192-B730-A6D5B2478671}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9900F7BE-79AF-4192-B730-A6D5B2478671}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9900F7BE-79AF-4192-B730-A6D5B2478671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4FACE1C-7826-4137-BCD8-832370E6CB88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4FACE1C-7826-4137-BCD8-832370E6CB88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4FACE1C-7826-4137-BCD8-832370E6CB88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4FACE1C-7826-4137-BCD8-832370E6CB88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
